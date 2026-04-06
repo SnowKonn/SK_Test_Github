@@ -1,0 +1,33 @@
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
